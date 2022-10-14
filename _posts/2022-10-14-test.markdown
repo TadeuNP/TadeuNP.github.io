@@ -6,7 +6,7 @@ categories:
 ---
 
 I'm just trying to include some interactive elements:
-[]: # source:  https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-github-pages/
+# source:  https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-github-pages/
 
 <iframe src="/flowers.html"
     sandbox="allow-same-origin allow-scripts"
